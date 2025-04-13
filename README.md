@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun P Manoj</h1>
-<h3 align="center">Frontend Developer with a Flair for Design & Performance 🇮🇳</h3>
+<h3 align="center">Frontend developer passionate about crafting UI with React</h3>
 
 [![](https://visitcount.itsvg.in/api?id=arunpmanoj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
