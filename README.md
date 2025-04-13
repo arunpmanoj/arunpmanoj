@@ -29,7 +29,7 @@
   <a href="https://www.hackerrank.com/profile/SHR22CS050" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/arun%20p%20manoj" target="_blank">
+  <a href="https://leetcode.com/u/arunpmanoj12/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </div>
