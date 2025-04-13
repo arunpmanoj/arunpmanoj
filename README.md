@@ -12,7 +12,7 @@
 
 🎓 CSE student at Sahrdaya College of Engineering & Technology (KTU)<br>
 💻 Passionate about frontend development, creative UI design, and debugging<br>
-🚀 Currently learning Flutter, Next.js, and exploring AI/ML<br>
+🚀 Currently learning Flutter and exploring AI/ML<br>
 📫 Reach me at **arunpmanoj12@gmail.com**
 
 </div>
