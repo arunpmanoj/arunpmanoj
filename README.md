@@ -3,9 +3,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=arunpmanoj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-<h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=600&lines=I'm+Arun+P+Manoj;Crafting+modern+web+experiences+with+React+%26+Flutter"/>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=600&lines=I'm+Arun+P+Manoj;Crafting+modern+web+experiences+with+React+%26+Flutter" alt="Typing SVG"/>
+</div>
+
 
 <div align="center">
 
