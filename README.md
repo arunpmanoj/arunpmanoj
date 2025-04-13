@@ -10,8 +10,9 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Flutter**  
-💬 Ask me about **React**  
+🎓 CSE student at Sahrdaya College of Engineering & Technology (KTU)
+💻 Passionate about frontend development, creative UI design, and debugging
+🚀 Currently learning Flutter, Next.js, and exploring AI/ML
 📫 Reach me at **arunpmanoj12@gmail.com**
 
 </div>
