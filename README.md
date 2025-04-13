@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/_arun_p___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/arun%20p%20manoj" target="_blank">
+  <a href="https://www.hackerrank.com/profile/SHR22CS050" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/arun%20p%20manoj" target="_blank">
