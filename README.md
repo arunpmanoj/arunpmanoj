@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun P Manoj</h1>
 <h3 align="center">Frontend Developer with a Flair for Design & Performance 🇮🇳</h3>
 
-[![](https://visitcount.itsvg.in/api?id=arunpmanoj12&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arunpmanoj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=600&lines=I'm+Arun+P+Manoj+🚀;Crafting+modern+web+experiences+with+React+%26+Flutter"/>
@@ -39,8 +39,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arunpmanoj12&show_icons=true&locale=en&theme=dark" alt="arunpmanoj12" height="150">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunpmanoj12&theme=dark" alt="arunpmanoj12" height="150">  
+    <img src="https://github-readme-stats.vercel.app/api?username=arunpmanoj&show_icons=true&locale=en&theme=dark" alt="arunpmanoj" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunpmanoj&theme=dark" alt="arunpmanoj" height="150">  
 </div>
 
 ---
