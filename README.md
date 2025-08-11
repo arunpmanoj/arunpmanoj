@@ -41,7 +41,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunpmanoj&show_icons=true&theme=dark" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=arunpmanoj&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunpmanoj&theme=dark" height="150"/>
+<!--   <img src="https://streak-stats.demolab.com/?user=arunpmanoj&theme=dark" height="150"/> -->
 </div>
 
 
